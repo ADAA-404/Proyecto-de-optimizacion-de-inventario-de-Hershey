@@ -52,6 +52,8 @@ These files are not included in this repository. Ensure you have these files in 
 - Run the Main Pipeline: Execute the main script to perform the data ETL, EDA, model training, and save the model using MLflow. This step will also print key insights and the final optimization results to the console.   
 - Launch the Interactive Dashboard: Once the model has been trained and saved, launch the Streamlit application to interact with the model and generate real-time recommendations.
 
+![Streamlit application dashboard showing inventory recommendation for a test performed](Images/Streamlit_View_Ex1.png)
+
 ## Contributions 🖨️
 If you're interested in contributing to this project or using it independently, consider:   
 - Forking the repository.
