@@ -1,0 +1,74 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Chocolate Bar",
+        "category": "Candy & Chocolate",
+        "price": 2.71,
+        "seasonality": 0.1,
+        "base_demand": 100
+    },
+    {
+        "product_id": 2,
+        "product_name": "Reese's Peanut Butter Cups",
+        "category": "Candy & Chocolate",
+        "price": 5.72,
+        "seasonality": 0.15,
+        "base_demand": 120
+    },
+    {
+        "product_id": 3,
+        "product_name": "Kisses",
+        "category": "Candy & Chocolate",
+        "price": 3.63,
+        "seasonality": 0.25,
+        "base_demand": 150
+    },
+    {
+        "product_id": 4,
+        "product_name": "Kit Kat",
+        "category": "Candy & Chocolate",
+        "price": 6.96,
+        "seasonality": 0.1,
+        "base_demand": 90
+    },
+    {
+        "product_id": 5,
+        "product_name": "S'mores Kit",
+        "category": "Candy & Chocolate",
+        "price": 7.45,
+        "seasonality": 0.35,
+        "base_demand": 70
+    },
+    {
+        "product_id": 6,
+        "product_name": "Hot Chocolate Mix",
+        "category": "Candy & Chocolate",
+        "price": 14.28,
+        "seasonality": 0.4,
+        "base_demand": 50
+    },
+    {
+        "product_id": 7,
+        "product_name": "Twizzlers",
+        "category": "Candy & Chocolate",
+        "price": 3.28,
+        "seasonality": 0.2,
+        "base_demand": 80
+    },
+    {
+        "product_id": 8,
+        "product_name": "Almond Joy",
+        "category": "Candy & Chocolate",
+        "price": 12.66,
+        "seasonality": 0.1,
+        "base_demand": 60
+    },
+    {
+        "product_id": 9,
+        "product_name": "Whoppers",
+        "category": "Candy & Chocolate",
+        "price": 13.79,
+        "seasonality": 0.05,
+        "base_demand": 45
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "campaign_id": "camp-1",
+        "product_id": 4,
+        "start_date": "2024-02-23",
+        "end_date": "2024-03-31",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 5681.85
+    },
+    {
+        "campaign_id": "camp-2",
+        "product_id": 1,
+        "start_date": "2025-01-19",
+        "end_date": "2025-02-10",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 2385.92
+    },
+    {
+        "campaign_id": "camp-3",
+        "product_id": 1,
+        "start_date": "2025-06-25",
+        "end_date": "2025-07-31",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 13059.74
+    },
+    {
+        "campaign_id": "camp-4",
+        "product_id": 6,
+        "start_date": "2025-02-11",
+        "end_date": "2025-02-19",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 10890.49
+    },
+    {
+        "campaign_id": "camp-5",
+        "product_id": 5,
+        "start_date": "2024-10-05",
+        "end_date": "2024-10-20",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 9999.77
+    },
+    {
+        "campaign_id": "camp-6",
+        "product_id": 2,
+        "start_date": "2025-04-29",
+        "end_date": "2025-05-07",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 2890.7
+    },
+    {
+        "campaign_id": "camp-7",
+        "product_id": 4,
+        "start_date": "2025-01-09",
+        "end_date": "2025-02-15",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 12541.48
+    },
+    {
+        "campaign_id": "camp-8",
+        "product_id": 7,
+        "start_date": "2024-12-21",
+        "end_date": "2025-01-06",
+        "ad_platform": "Google Ads",
+        "target_audience": "Parents",
+        "budget": 14775.82
+    },
+    {
+        "campaign_id": "camp-9",
+        "product_id": 9,
+        "start_date": "2024-08-17",
+        "end_date": "2024-10-09",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 17800.2
+    },
+    {
+        "campaign_id": "camp-10",
+        "product_id": 5,
+        "start_date": "2024-08-19",
+        "end_date": "2024-10-03",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 10006.86
+    },
+    {
+        "campaign_id": "camp-11",
+        "product_id": 7,
+        "start_date": "2024-07-07",
+        "end_date": "2024-08-07",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 2124.05
+    },
+    {
+        "campaign_id": "camp-12",
+        "product_id": 7,
+        "start_date": "2024-04-30",
+        "end_date": "2024-05-09",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 16627.22
+    },
+    {
+        "campaign_id": "camp-13",
+        "product_id": 3,
+        "start_date": "2023-10-17",
+        "end_date": "2023-11-28",
+        "ad_platform": "Instagram",
+        "target_audience": "Millennials",
+        "budget": 1988.21
+    },
+    {
+        "campaign_id": "camp-14",
+        "product_id": 5,
+        "start_date": "2024-01-17",
+        "end_date": "2024-03-02",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 13338.28
+    },
+    {
+        "campaign_id": "camp-15",
+        "product_id": 5,
+        "start_date": "2023-10-30",
+        "end_date": "2023-12-07",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 2462.66
+    },
+    {
+        "campaign_id": "camp-16",
+        "product_id": 6,
+        "start_date": "2024-01-29",
+        "end_date": "2024-02-10",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 18981.58
+    },
+    {
+        "campaign_id": "camp-17",
+        "product_id": 3,
+        "start_date": "2023-09-23",
+        "end_date": "2023-11-15",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 14509.81
+    },
+    {
+        "campaign_id": "camp-18",
+        "product_id": 5,
+        "start_date": "2024-08-26",
+        "end_date": "2024-09-09",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 8446.84
+    },
+    {
+        "campaign_id": "camp-19",
+        "product_id": 8,
+        "start_date": "2024-03-12",
+        "end_date": "2024-04-26",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 19136.38
+    },
+    {
+        "campaign_id": "camp-20",
+        "product_id": 8,
+        "start_date": "2024-09-29",
+        "end_date": "2024-10-06",
+        "ad_platform": "Instagram",
+        "target_audience": "Millennials",
+        "budget": 15082.07
+    },
+    {
+        "campaign_id": "camp-21",
+        "product_id": 9,
+        "start_date": "2025-08-12",
+        "end_date": "2025-10-09",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 18891.06
+    },
+    {
+        "campaign_id": "camp-22",
+        "product_id": 1,
+        "start_date": "2023-09-04",
+        "end_date": "2023-10-28",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 16275.82
+    },
+    {
+        "campaign_id": "camp-23",
+        "product_id": 4,
+        "start_date": "2024-01-30",
+        "end_date": "2024-02-21",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 13506.59
+    },
+    {
+        "campaign_id": "camp-24",
+        "product_id": 9,
+        "start_date": "2024-05-27",
+        "end_date": "2024-07-18",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 10374.47
+    },
+    {
+        "campaign_id": "camp-25",
+        "product_id": 6,
+        "start_date": "2025-03-31",
+        "end_date": "2025-05-24",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 9752.94
+    },
+    {
+        "campaign_id": "camp-26",
+        "product_id": 6,
+        "start_date": "2025-02-13",
+        "end_date": "2025-03-24",
+        "ad_platform": "Google Ads",
+        "target_audience": "Parents",
+        "budget": 10419.13
+    },
+    {
+        "campaign_id": "camp-27",
+        "product_id": 9,
+        "start_date": "2025-01-21",
+        "end_date": "2025-02-24",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 19357.12
+    },
+    {
+        "campaign_id": "camp-28",
+        "product_id": 5,
+        "start_date": "2025-05-06",
+        "end_date": "2025-05-17",
+        "ad_platform": "Facebook",
+        "target_audience": "Parents",
+        "budget": 13721.09
+    },
+    {
+        "campaign_id": "camp-29",
+        "product_id": 2,
+        "start_date": "2023-09-22",
+        "end_date": "2023-11-07",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 13993.38
+    },
+    {
+        "campaign_id": "camp-30",
+        "product_id": 5,
+        "start_date": "2023-11-10",
+        "end_date": "2023-12-19",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 1373.74
+    },
+    {
+        "campaign_id": "camp-31",
+        "product_id": 1,
+        "start_date": "2024-06-20",
+        "end_date": "2024-06-30",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 2641.33
+    },
+    {
+        "campaign_id": "camp-32",
+        "product_id": 5,
+        "start_date": "2024-09-06",
+        "end_date": "2024-09-22",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 19719.1
+    },
+    {
+        "campaign_id": "camp-33",
+        "product_id": 2,
+        "start_date": "2024-01-31",
+        "end_date": "2024-03-20",
+        "ad_platform": "Instagram",
+        "target_audience": "Millennials",
+        "budget": 7977.22
+    },
+    {
+        "campaign_id": "camp-34",
+        "product_id": 1,
+        "start_date": "2025-07-20",
+        "end_date": "2025-08-23",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 3679.98
+    },
+    {
+        "campaign_id": "camp-35",
+        "product_id": 7,
+        "start_date": "2025-07-11",
+        "end_date": "2025-08-09",
+        "ad_platform": "Google Ads",
+        "target_audience": "Parents",
+        "budget": 10014.15
+    },
+    {
+        "campaign_id": "camp-36",
+        "product_id": 1,
+        "start_date": "2025-02-10",
+        "end_date": "2025-03-01",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 9932.75
+    },
+    {
+        "campaign_id": "camp-37",
+        "product_id": 2,
+        "start_date": "2025-06-27",
+        "end_date": "2025-07-12",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 14513.11
+    },
+    {
+        "campaign_id": "camp-38",
+        "product_id": 6,
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-15",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 8388.67
+    },
+    {
+        "campaign_id": "camp-39",
+        "product_id": 7,
+        "start_date": "2024-04-09",
+        "end_date": "2024-05-14",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 4529.34
+    },
+    {
+        "campaign_id": "camp-40",
+        "product_id": 5,
+        "start_date": "2025-02-13",
+        "end_date": "2025-03-03",
+        "ad_platform": "Facebook",
+        "target_audience": "Parents",
+        "budget": 1535.72
+    },
+    {
+        "campaign_id": "camp-41",
+        "product_id": 8,
+        "start_date": "2025-06-01",
+        "end_date": "2025-07-05",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 10502.94
+    },
+    {
+        "campaign_id": "camp-42",
+        "product_id": 5,
+        "start_date": "2024-07-09",
+        "end_date": "2024-08-14",
+        "ad_platform": "Facebook",
+        "target_audience": "Parents",
+        "budget": 15457.94
+    },
+    {
+        "campaign_id": "camp-43",
+        "product_id": 8,
+        "start_date": "2024-02-25",
+        "end_date": "2024-03-12",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 6562.19
+    },
+    {
+        "campaign_id": "camp-44",
+        "product_id": 1,
+        "start_date": "2024-04-08",
+        "end_date": "2024-04-15",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 5559.4
+    },
+    {
+        "campaign_id": "camp-45",
+        "product_id": 4,
+        "start_date": "2023-09-11",
+        "end_date": "2023-09-19",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 7569.14
+    },
+    {
+        "campaign_id": "camp-46",
+        "product_id": 5,
+        "start_date": "2024-09-02",
+        "end_date": "2024-09-19",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 14355.66
+    },
+    {
+        "campaign_id": "camp-47",
+        "product_id": 7,
+        "start_date": "2023-11-05",
+        "end_date": "2023-11-23",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 9475.93
+    },
+    {
+        "campaign_id": "camp-48",
+        "product_id": 8,
+        "start_date": "2024-02-10",
+        "end_date": "2024-04-08",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 16898.34
+    },
+    {
+        "campaign_id": "camp-49",
+        "product_id": 7,
+        "start_date": "2025-02-04",
+        "end_date": "2025-04-01",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 1251.02
+    },
+    {
+        "campaign_id": "camp-50",
+        "product_id": 8,
+        "start_date": "2024-03-11",
+        "end_date": "2024-05-02",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 9287.2
+    },
+    {
+        "campaign_id": "camp-51",
+        "product_id": 2,
+        "start_date": "2024-10-25",
+        "end_date": "2024-12-01",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 2180.53
+    },
+    {
+        "campaign_id": "camp-52",
+        "product_id": 5,
+        "start_date": "2024-07-19",
+        "end_date": "2024-09-10",
+        "ad_platform": "Google Ads",
+        "target_audience": "Parents",
+        "budget": 5878.91
+    },
+    {
+        "campaign_id": "camp-53",
+        "product_id": 8,
+        "start_date": "2025-04-17",
+        "end_date": "2025-04-24",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 6779.11
+    },
+    {
+        "campaign_id": "camp-54",
+        "product_id": 7,
+        "start_date": "2025-05-11",
+        "end_date": "2025-06-07",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 8775.12
+    },
+    {
+        "campaign_id": "camp-55",
+        "product_id": 4,
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-31",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 18452.22
+    },
+    {
+        "campaign_id": "camp-56",
+        "product_id": 6,
+        "start_date": "2024-03-22",
+        "end_date": "2024-05-04",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 8491.25
+    },
+    {
+        "campaign_id": "camp-57",
+        "product_id": 7,
+        "start_date": "2023-12-19",
+        "end_date": "2024-02-12",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 15378.22
+    },
+    {
+        "campaign_id": "camp-58",
+        "product_id": 6,
+        "start_date": "2024-12-13",
+        "end_date": "2025-01-27",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 7544.74
+    },
+    {
+        "campaign_id": "camp-59",
+        "product_id": 4,
+        "start_date": "2024-03-26",
+        "end_date": "2024-05-05",
+        "ad_platform": "Instagram",
+        "target_audience": "Millennials",
+        "budget": 723.27
+    },
+    {
+        "campaign_id": "camp-60",
+        "product_id": 3,
+        "start_date": "2025-07-03",
+        "end_date": "2025-08-25",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 19418.83
+    },
+    {
+        "campaign_id": "camp-61",
+        "product_id": 7,
+        "start_date": "2025-07-30",
+        "end_date": "2025-09-13",
+        "ad_platform": "Google Ads",
+        "target_audience": "Parents",
+        "budget": 5176.2
+    },
+    {
+        "campaign_id": "camp-62",
+        "product_id": 5,
+        "start_date": "2023-12-12",
+        "end_date": "2023-12-26",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 12496.14
+    },
+    {
+        "campaign_id": "camp-63",
+        "product_id": 4,
+        "start_date": "2025-06-04",
+        "end_date": "2025-06-12",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 17025.89
+    },
+    {
+        "campaign_id": "camp-64",
+        "product_id": 9,
+        "start_date": "2024-10-16",
+        "end_date": "2024-11-14",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 11036.21
+    },
+    {
+        "campaign_id": "camp-65",
+        "product_id": 6,
+        "start_date": "2025-08-24",
+        "end_date": "2025-09-08",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 6696.71
+    },
+    {
+        "campaign_id": "camp-66",
+        "product_id": 2,
+        "start_date": "2025-05-23",
+        "end_date": "2025-07-16",
+        "ad_platform": "Instagram",
+        "target_audience": "Millennials",
+        "budget": 10739.66
+    },
+    {
+        "campaign_id": "camp-67",
+        "product_id": 2,
+        "start_date": "2025-07-01",
+        "end_date": "2025-07-20",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 16642.4
+    },
+    {
+        "campaign_id": "camp-68",
+        "product_id": 8,
+        "start_date": "2024-05-22",
+        "end_date": "2024-06-26",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 14288.9
+    },
+    {
+        "campaign_id": "camp-69",
+        "product_id": 3,
+        "start_date": "2025-03-17",
+        "end_date": "2025-04-22",
+        "ad_platform": "Google Ads",
+        "target_audience": "Parents",
+        "budget": 19403.56
+    },
+    {
+        "campaign_id": "camp-70",
+        "product_id": 4,
+        "start_date": "2024-02-28",
+        "end_date": "2024-04-24",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 11612.4
+    },
+    {
+        "campaign_id": "camp-71",
+        "product_id": 8,
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-22",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 10646.52
+    },
+    {
+        "campaign_id": "camp-72",
+        "product_id": 4,
+        "start_date": "2024-08-08",
+        "end_date": "2024-09-11",
+        "ad_platform": "Facebook",
+        "target_audience": "Parents",
+        "budget": 9912.24
+    },
+    {
+        "campaign_id": "camp-73",
+        "product_id": 8,
+        "start_date": "2024-11-16",
+        "end_date": "2025-01-01",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 18146.08
+    },
+    {
+        "campaign_id": "camp-74",
+        "product_id": 9,
+        "start_date": "2024-03-25",
+        "end_date": "2024-05-18",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 14582.12
+    },
+    {
+        "campaign_id": "camp-75",
+        "product_id": 4,
+        "start_date": "2024-08-06",
+        "end_date": "2024-09-08",
+        "ad_platform": "Facebook",
+        "target_audience": "Parents",
+        "budget": 19484.36
+    },
+    {
+        "campaign_id": "camp-76",
+        "product_id": 1,
+        "start_date": "2024-09-21",
+        "end_date": "2024-10-18",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 10744.7
+    },
+    {
+        "campaign_id": "camp-77",
+        "product_id": 7,
+        "start_date": "2025-01-11",
+        "end_date": "2025-03-12",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 9297.79
+    },
+    {
+        "campaign_id": "camp-78",
+        "product_id": 1,
+        "start_date": "2023-12-11",
+        "end_date": "2024-01-16",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 5331.69
+    },
+    {
+        "campaign_id": "camp-79",
+        "product_id": 3,
+        "start_date": "2024-04-28",
+        "end_date": "2024-06-17",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 13433.34
+    },
+    {
+        "campaign_id": "camp-80",
+        "product_id": 7,
+        "start_date": "2023-11-27",
+        "end_date": "2024-01-09",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 12748.39
+    },
+    {
+        "campaign_id": "camp-81",
+        "product_id": 5,
+        "start_date": "2025-07-23",
+        "end_date": "2025-09-13",
+        "ad_platform": "TikTok",
+        "target_audience": "Gen Z",
+        "budget": 653.33
+    },
+    {
+        "campaign_id": "camp-82",
+        "product_id": 5,
+        "start_date": "2024-10-03",
+        "end_date": "2024-10-30",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 18621.37
+    },
+    {
+        "campaign_id": "camp-83",
+        "product_id": 3,
+        "start_date": "2024-07-18",
+        "end_date": "2024-08-21",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 7198.26
+    },
+    {
+        "campaign_id": "camp-84",
+        "product_id": 1,
+        "start_date": "2023-08-26",
+        "end_date": "2023-10-23",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 17211.61
+    },
+    {
+        "campaign_id": "camp-85",
+        "product_id": 6,
+        "start_date": "2024-12-07",
+        "end_date": "2024-12-23",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 18323.5
+    },
+    {
+        "campaign_id": "camp-86",
+        "product_id": 1,
+        "start_date": "2024-08-02",
+        "end_date": "2024-08-30",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 998.64
+    },
+    {
+        "campaign_id": "camp-87",
+        "product_id": 3,
+        "start_date": "2025-05-08",
+        "end_date": "2025-05-15",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 6838.54
+    },
+    {
+        "campaign_id": "camp-88",
+        "product_id": 3,
+        "start_date": "2023-11-30",
+        "end_date": "2024-01-08",
+        "ad_platform": "Facebook",
+        "target_audience": "Gen Z",
+        "budget": 6333.55
+    },
+    {
+        "campaign_id": "camp-89",
+        "product_id": 4,
+        "start_date": "2024-06-30",
+        "end_date": "2024-08-21",
+        "ad_platform": "Instagram",
+        "target_audience": "Gen Z",
+        "budget": 9176.99
+    },
+    {
+        "campaign_id": "camp-90",
+        "product_id": 1,
+        "start_date": "2025-04-16",
+        "end_date": "2025-05-11",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 5028.3
+    },
+    {
+        "campaign_id": "camp-91",
+        "product_id": 3,
+        "start_date": "2024-03-17",
+        "end_date": "2024-05-04",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 8582.67
+    },
+    {
+        "campaign_id": "camp-92",
+        "product_id": 5,
+        "start_date": "2024-05-31",
+        "end_date": "2024-07-10",
+        "ad_platform": "TikTok",
+        "target_audience": "Parents",
+        "budget": 3209.77
+    },
+    {
+        "campaign_id": "camp-93",
+        "product_id": 9,
+        "start_date": "2025-06-12",
+        "end_date": "2025-07-24",
+        "ad_platform": "Google Ads",
+        "target_audience": "Millennials",
+        "budget": 16948.14
+    },
+    {
+        "campaign_id": "camp-94",
+        "product_id": 9,
+        "start_date": "2024-05-13",
+        "end_date": "2024-07-09",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 2568.58
+    },
+    {
+        "campaign_id": "camp-95",
+        "product_id": 4,
+        "start_date": "2024-04-15",
+        "end_date": "2024-05-05",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 8134.73
+    },
+    {
+        "campaign_id": "camp-96",
+        "product_id": 1,
+        "start_date": "2025-01-17",
+        "end_date": "2025-02-04",
+        "ad_platform": "Google Ads",
+        "target_audience": "Gen Z",
+        "budget": 18172.74
+    },
+    {
+        "campaign_id": "camp-97",
+        "product_id": 5,
+        "start_date": "2024-06-26",
+        "end_date": "2024-07-14",
+        "ad_platform": "TikTok",
+        "target_audience": "Millennials",
+        "budget": 4032.4
+    },
+    {
+        "campaign_id": "camp-98",
+        "product_id": 6,
+        "start_date": "2024-11-13",
+        "end_date": "2024-11-29",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 18419.68
+    },
+    {
+        "campaign_id": "camp-99",
+        "product_id": 2,
+        "start_date": "2025-03-17",
+        "end_date": "2025-05-15",
+        "ad_platform": "Facebook",
+        "target_audience": "Millennials",
+        "budget": 17579.26
+    },
+    {
+        "campaign_id": "camp-100",
+        "product_id": 6,
+        "start_date": "2024-01-27",
+        "end_date": "2024-03-10",
+        "ad_platform": "Instagram",
+        "target_audience": "Parents",
+        "budget": 15897.41
+    }
+]
